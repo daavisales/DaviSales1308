@@ -60,8 +60,8 @@ Confira meus repositórios abaixo 👇
 ## 📊 Estatísticas
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davisales1308&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisales1308&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daavisales&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daavisales&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
